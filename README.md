@@ -3,8 +3,8 @@
 
 ## Mon CV
 
-[French version](https://github.com/mrbinr/mrbinr-resume/fr/README.md)
+[French version](https://github.com/mrbinr/mrbinr-resume/tree/master/fr)
 
 ## My resume
 
-[English version](https://github.com/mrbinr/mrbinr-resume/en/README.md)
+[English version](https://github.com/mrbinr/mrbinr-resume/tree/master/en)
