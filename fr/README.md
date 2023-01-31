@@ -9,9 +9,24 @@ Rejoindre une équipe de passionnés avec qui partager, évoluer et grandir aux 
 
 ## Expériences professionnelles
 
-### 360 medics - Lyon (69)
+### Ornikar - Paris (75) - *Fullremote*
+**Engineering Manager**  
+*de janvier 2023 à aujourd'hui*
+
+* Management des l'équipe Assurance backend et frontend.
+
+**Environnement : NestJS • ReactJS • Github • Jira • Confluence**
+
+### 360 Medics - Lyon (69)
+**Team Lead**  
+*de mai 2022 à décembre 2022*  
+
+En plus des tâches liées à mon précedent poste :  
+* Management des équipes backend, frontend, et mobile.
+* Code review, documentation technique, sprint planning, refinement ...
+
 **Lead tech backend**  
-*depuis novembre 2021 à aujourd'hui*
+*de novembre 2021 à avril 2022*
 
 * Code review, documentation technique, sprint planning, refinement, recherche et développement
 * Refonte du stockage drive vers solution HDS AWS S3
