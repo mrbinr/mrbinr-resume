@@ -9,9 +9,17 @@ Rejoindre une équipe de passionnés avec qui partager, évoluer et grandir aux 
 
 ## Expériences professionnelles
 
+### ZOL - Lyon (69)
+**Tech Lead**  
+*de février 2023 à février*
+
+Participation au développement d'un projet client avec entre autre la mise en place de bounded context avec pour objectif de mettre en place une architecture en DDD.
+
+**Environnement : PHP 8.0 • Symfony 6 • Redmine • Gitlab**
+
 ### Ornikar - Paris (75) - *Fullremote*
 **Engineering Manager**  
-*de janvier 2023 à aujourd'hui*
+*de janvier 2023 à février*
 
 * Management des l'équipe Assurance backend et frontend.
 
@@ -183,13 +191,10 @@ Bac série technologie
 ## Projets personnels
 
 https://www.toutdonner.com  
-**Symfony • MySQL • Bootstrap • Gearman • Amazon SES**
+**Symfony • MySQL • Bootstrap • Gearman**
 
 https://www.grilles-gagnantes.fr  
 **API REST • NodeJS • ExpressJS • MongoDB • NuxtJS**
-
-https://www.etunepinceede.fr  
-**Django • Python • Bootstrap • MySQL**
 
 https://modpas.com  
 **ReactJS Bootstrap**
