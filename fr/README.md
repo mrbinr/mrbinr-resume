@@ -11,11 +11,11 @@ Rejoindre une équipe de passionnés avec qui partager, évoluer et grandir aux 
 
 ### ZOL - Lyon (69)
 **Tech Lead**  
-*de février 2023 à février*
+*de février 2023 à aujourd'hui*
 
 Participation au développement d'un projet client avec entre autre la mise en place de bounded context avec pour objectif de mettre en place une architecture en DDD.
 
-**Environnement : PHP 8.0 • Symfony 6 • Redmine • Gitlab**
+**Environnement : PHP 8.0 • Symfony 6 • Redmine • Gitlab • AWS**
 
 ### Ornikar - Paris (75) - *Fullremote*
 **Engineering Manager**  
