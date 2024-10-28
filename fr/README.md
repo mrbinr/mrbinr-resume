@@ -3,19 +3,33 @@
 
 [/in/pascal-legroux-a6b53011/](https://www.linkedin.com/in/pascal-legroux-a6b53011/)
 
-## Lead tech fullstack
+## Lead tech backend / Team Lead
 
 Rejoindre une équipe de passionnés avec qui partager, évoluer et grandir aux travers de projets innovants.
 
 ## Expériences professionnelles
 
+### Résilience Paris (75)
+**Back End Dev Lead**
+*de avril 2024 à aujourd'hui*
+
+* Management de l'équipe backend jusqu'à 7 personnes
+* Spécification technique, développement, code review
+
+**Senoir Back End Developer**
+*de janvier 2024 à avril 2024*
+
+* Spécification technique, développement, code review
+
+**Environnement : PHP 8.1 • Symfony 5.4 • MongoDB • API • Github • JIra • Confluence**
+
 ### ZOL - Lyon (69)
 **Tech Lead**  
-*de février 2023 à aujourd'hui*
+*de février 2023 à janvier 2024*
 
 Participation au développement d'un projet client avec entre autre la mise en place de bounded context avec pour objectif de mettre en place une architecture en DDD.
 
-**Environnement : PHP 8.0 • Symfony 6 • Redmine • Gitlab • AWS**
+**Environnement : PHP 8.0 • Symfony 6 • MySQL • Redmine • Gitlab • AWS**
 
 ### Ornikar - Paris (75) - *Fullremote*
 **Engineering Manager**  
@@ -51,7 +65,7 @@ En plus des tâches liées à mon précedent poste :
 
 * Code review, documentation technique, sprint planning, refinement
 
-**Environnement : PHP 8 • PostgreSQL • Symfony5 • API • Docker • Ubuntu • Agile • Gitlab • Jira**
+**Environnement : PHP 8 • PostgreSQL • Symfony 5 • API • Docker • Ubuntu • Agile • Gitlab • Jira**
 
 ### Leasys Rent France (ex Aixia-Systèmes) - Limonest (69)
 **Responsable technique / Lead développement**  
@@ -109,7 +123,7 @@ Clients : Osiatis, Transmontagne Résidences, CRT Rhône-Alpes, Aoste, Valloire 
 ## Compétences
 
 ### Langages
-**API REST** • **Bash** • Bootstrap • **CSS** • Elastic Search • ExpressJS • Flutter (Dart) • Gearman / RabbitMQ • **HTML** • **Javascript** • **JQuery** • **NodeJS** • **PHP** • ReactJS • **Symfony** • VueJS
+API REST • Bash • CSS • Elastic Search • HTML • Javascript • NodeJS • PHP • Symfony
 
 ### Bases de données
 **MongoDB** • **MySQL** • **SQLite**
@@ -118,7 +132,7 @@ Clients : Osiatis, Transmontagne Résidences, CRT Rhône-Alpes, Aoste, Valloire 
 * Atlassian (Confluence, Jira, Bitbucket)
 
 ### Autres
-**Debian** • **GIT** • Google Cloud Platform • Gulp • PHPStorm • Ubuntu • Visual Sudio Code • Window
+**Debian** • **GIT** • Gulp • PHPStorm • Ubuntu • Visual Sudio Code • Window
 
 ## Certifications - Formations - Diplômes
 #### Automate the Boring Stuff with Python Programming (2020)
@@ -191,16 +205,16 @@ Bac série technologie
 ## Projets personnels
 
 https://www.toutdonner.com  
-**Symfony • MySQL • Bootstrap • Gearman**
+**Symfony • MySQL**
 
 https://www.grilles-gagnantes.fr  
-**API REST • NodeJS • ExpressJS • MongoDB • NuxtJS**
+**API REST • NodeJS • ExpressJS • MongoDB • NuxtJS • API**
 
 https://modpas.com  
 **ReactJS Bootstrap**
 
 https://mrlgx.com  
-**HTML • Javascript • CSS • Nunjucks**
+**HTML • Javascript • CSS • Nunjucks • API**
 
 ## Loisirs
 
