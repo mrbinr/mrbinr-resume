@@ -210,9 +210,6 @@ Bac série technologie
 https://www.toutdonner.com  
 **Symfony • MySQL**
 
-https://www.grilles-gagnantes.fr  
-**API REST • NodeJS • ExpressJS • MongoDB • NuxtJS • API**
-
 https://modpas.com  
 **ReactJS Bootstrap**
 
