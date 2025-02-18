@@ -9,17 +9,20 @@ Rejoindre une équipe de passionnés avec qui partager, évoluer et grandir aux 
 
 ## Expériences professionnelles
 
-### Résilience Paris (75)
+### Résilience Paris (75) - *Fullremote*
 **Back End Dev Lead**
 *de avril 2024 à aujourd'hui*
 
 * Management de l'équipe backend jusqu'à 7 personnes
+    * 101, Annuel review, organisation du travail
 * Spécification technique, développement, code review
+    * Essentiellement sur le legacy Symfony 5.4
 
 **Senoir Back End Developer**
 *de janvier 2024 à avril 2024*
 
 * Spécification technique, développement, code review
+* Containerisation (docker) des applications backend et frontend
 
 **Environnement : PHP 8.1 • Symfony 5.4 • MongoDB • API • Github • JIra • Confluence**
 
