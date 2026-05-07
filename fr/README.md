@@ -20,7 +20,7 @@ _de avril 2024 à aujourd'hui_
 - Spécification technique, développement, code review
     - Essentiellement sur le legacy Symfony 5.4
 
-**Senoir Back End Developer**
+**Senior Back End Developer**
 _de janvier 2024 à avril 2024_
 
 - Spécification technique, développement, code review
@@ -40,7 +40,7 @@ Participation au développement d'un projet client avec entre autre la mise en p
 ### Ornikar - Paris (75) - _Fullremote_
 
 **Engineering Manager**  
-_de janvier 2023 à février_
+_de janvier 2023 à février 2023_
 
 - Management des l'équipe Assurance backend et frontend.
 
@@ -99,7 +99,7 @@ _janvier 2015 à avril 2016_
 ### Plug'n'Press - Saint-Germain au mont d'Or (69)
 
 **Développeur internet**  
-_avril 2017 à décembre 2014_
+_avril 2007 à décembre 2014_
 
 - Développements et maintien des sites internets www.toutgagner.com (jeux concours) et www.oogolo.fr (bons plans tourisme)
 
@@ -139,7 +139,7 @@ _février 1995 à décembre 2000_
 
 ### Langages
 
-API REST • Bash • CSS • Elastic Search • HTML • Javascript • NodeJS • PHP • Symfony
+API REST • Bash • CSS • HTML • Javascript • NodeJS • PHP • Symfony
 
 ### Bases de données
 
