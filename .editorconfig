@@ -16,7 +16,6 @@ indent_size = 4
 trim_trailing_whitespace = false
 
 [{Makefile,*.mk}]
-#indent_size = 4
 indent_style = tab
 
 [*.sh]
