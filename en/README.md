@@ -155,6 +155,13 @@ Debian • GIT • PHPStorm • Ubuntu • Visual Studio Code
 
 ## Certifications - Training - Degrees
 
+#### AI Capabilities and Limitations (2026)
+
+https://verify.skilljar.com/c/x7b7hu8rrtzj  
+**Anthropic**
+
+---
+
 #### Claude with the Anthropic API (2026)
 
 https://verify.skilljar.com/c/h4ndqtft2gqg  
