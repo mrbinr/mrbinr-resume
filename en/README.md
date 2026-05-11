@@ -28,6 +28,8 @@ _from January 2024 to April 2024_
 
 **Environment: PHP 8.1 • Symfony 5.4 • MongoDB • API • Github • Jira • Confluence**
 
+---
+
 ### ZOL - Lyon (69)
 
 **Tech Lead**
@@ -37,6 +39,8 @@ Participation in the development of a client project, including the implementati
 
 **Environment: PHP 8.0 • Symfony 6 • MySQL • Redmine • Gitlab • AWS**
 
+---
+
 ### Ornikar - Paris (75) - _Fullremote_
 
 **Engineering Manager**
@@ -45,6 +49,8 @@ _from January 2023 to February 2023_
 - Management of the Insurance backend and frontend team.
 
 **Environment: NestJS • ReactJS • Github • Jira • Confluence**
+
+---
 
 ### PulseLife (ex 360 Medics) - Lyon (69)
 
@@ -68,6 +74,8 @@ _from November 2021 to April 2022_
 
 **Environment: PHP7 • MySQL • Symfony • API • Agile • Github • Confluence • Jira • AWS**
 
+---
+
 ### Chiliz - Lyon (69)
 
 **Backend Team Tech Lead**
@@ -76,6 +84,8 @@ _from September 2021 to November 2021_
 - Code review, technical documentation, sprint planning, refinement
 
 **Environment: PHP 8 • PostgreSQL • Symfony 5 • API • Docker • Ubuntu • Agile • Gitlab • Jira**
+
+---
 
 ### Leasys Rent France (ex Aixia-Systèmes) - Limonest (69)
 
@@ -96,6 +106,8 @@ _January 2015 to April 2016_
 
 **Environment: PHP • MySQL • HTML • CSS • Javascript • Symfony • API • NodeJS • ReactJS • MongoDB • Ubuntu**
 
+---
+
 ### Plug'n'Press - Saint-Germain au mont d'Or (69)
 
 **Web Developer**
@@ -104,6 +116,8 @@ _April 2007 to December 2014_
 - Development and maintenance of websites www.toutgagner.com (contests) and www.oogolo.fr (tourism deals)
 
 **Environment: PHP • MySQL • HTML • CSS • Javascript (Dojo) • Bootstrap • Debian**
+
+---
 
 ### Native Communications - Lyon (69)
 
@@ -115,6 +129,8 @@ _September 2001 to April 2007_
 
 **Environment: PHP • MySQL • Javascript • HTML • CSS • Debian**
 
+---
+
 ### Groupe-E
 
 **Internet Programmer**
@@ -123,6 +139,8 @@ _December 2000 to June 2001_
 - Development of the Intranet, statistics tools, and websites such as Zirzop or Pays de Loire.
 
 **Environment: PHP • MySQL • Javascript • HTML • CSS • Windows**
+
+---
 
 ### REEL S.A. - Saint-Cyr au mont d'Or
 

@@ -28,6 +28,8 @@ _de janvier 2024 à avril 2024_
 
 **Environnement : PHP 8.1 • Symfony 5.4 • MongoDB • API • Github • JIra • Confluence**
 
+---
+
 ### ZOL - Lyon (69)
 
 **Tech Lead**  
@@ -37,6 +39,8 @@ Participation au développement d'un projet client avec entre autre la mise en p
 
 **Environnement : PHP 8.0 • Symfony 6 • MySQL • Redmine • Gitlab • AWS**
 
+---
+
 ### Ornikar - Paris (75) - _Fullremote_
 
 **Engineering Manager**  
@@ -45,6 +49,8 @@ _de janvier 2023 à février 2023_
 - Management des l'équipe Assurance backend et frontend.
 
 **Environnement : NestJS • ReactJS • Github • Jira • Confluence**
+
+---
 
 ### PulseLife (ex 360 Medics) - Lyon (69)
 
@@ -68,6 +74,8 @@ _de novembre 2021 à avril 2022_
 
 **Environnement : PHP7 • MySQL • Symfony • API • Agile • Github • Confluence • Jira • AWS**
 
+---
+
 ### Chiliz - Lyon (69)
 
 **Lead tech équipe backend**  
@@ -76,6 +84,8 @@ _de septembre 2021 à novembre 2021_
 - Code review, documentation technique, sprint planning, refinement
 
 **Environnement : PHP 8 • PostgreSQL • Symfony 5 • API • Docker • Ubuntu • Agile • Gitlab • Jira**
+
+---
 
 ### Leasys Rent France (ex Aixia-Systèmes) - Limonest (69)
 
@@ -96,6 +106,8 @@ _janvier 2015 à avril 2016_
 
 **Environnement : PHP • MySQL • HTML • CSS • Javascript • Symfony • API • NodeJS • ReactJS • MongoDB • Ubuntu**
 
+---
+
 ### Plug'n'Press - Saint-Germain au mont d'Or (69)
 
 **Développeur internet**  
@@ -104,6 +116,8 @@ _avril 2007 à décembre 2014_
 - Développements et maintien des sites internets www.toutgagner.com (jeux concours) et www.oogolo.fr (bons plans tourisme)
 
 **Environnement : PHP • MySQL • HTML • CSS • Javascript (Dojo) • Bootstrap • Debian**
+
+---
 
 ### Native Communications - Lyon (69)
 
@@ -115,6 +129,8 @@ _septembre 2001 à avril 2007_
 
 **Environnement : PHP • MySQL • Javascript • HTML • CSS • Debian**
 
+---
+
 ### Groupe-E
 
 **Programmeur Internet**  
@@ -123,6 +139,8 @@ _décembre 2000 à juin 2001_
 - Développement de l'Intranet, d'outils de statistiques, et de sites internet comme Zirzop ou Pays de Loire.
 
 **Environnement : PHP • MySQL • Javascript • HTML • CSS • Windows**
+
+---
 
 ### REEL S.A. - Saint-Cyr au mont d'Or
 
