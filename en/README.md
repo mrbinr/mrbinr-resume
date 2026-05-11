@@ -318,9 +318,6 @@ https://toolbox.mrbinr.com
 https://play.google.com/store/apps/details?id=com.mrbinr.myoon  
 **Claude • ReactNative • Android**
 
-https://www.toutdonner.com  
-**Symfony • MySQL**
-
 https://modpas.com  
 **ReactJS Bootstrap**
 
