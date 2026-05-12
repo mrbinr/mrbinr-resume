@@ -2,7 +2,8 @@
 
 **aka [mrbinr](https://www.mrbinr.com)**
 
-[https://www.linkedin.com/in/pascal-legroux-a6b53011/](https://www.linkedin.com/in/pascal-legroux-a6b53011/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pascal--legroux-blue?logo=linkedin)](https://linkedin.com/in/pascal-legroux-a6b53011)
+[![Site](https://img.shields.io/badge/Site-mrbinr.com-black?logo=astro)](https://mrbinr.com)
 
 ## Lead tech backend / Team Lead
 
