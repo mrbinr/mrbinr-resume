@@ -18,8 +18,9 @@ _from April 2024 to present_
 
 - Managing the backend team of up to 7 people
     - 1:1s, annual reviews, work organisation
+- Implementation of the first technical building block for user authentication via Keycloak.
+- Creation of a system enabling interoperability with external services for patient creation.
 - Technical specification, development, code review
-    - Primarily on the legacy Symfony 5.4
 
 **Senior Back End Developer**
 _from January 2024 to April 2024_
@@ -27,7 +28,7 @@ _from January 2024 to April 2024_
 - Technical specification, development, code review
 - Containerisation (Docker) of backend and frontend applications
 
-**Environment: PHP 8.1 • Symfony 5.4 • MongoDB • API • Github • Jira • Confluence**
+**Environment: PHP 8.1 • Symfony • MongoDB • API • Github • Jira • Confluence**
 
 ---
 

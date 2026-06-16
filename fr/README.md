@@ -18,8 +18,9 @@ _de avril 2024 à aujourd'hui_
 
 - Management de l'équipe backend jusqu'à 7 personnes
     - 101, Annuel review, organisation du travail
+- Mise en place de la première brique technique pour l'authentification des utilisateurs via Keycloak.
+- Création d'un système permettant l'interopérabilité avec des services externes pour la création de patients.
 - Spécification technique, développement, code review
-    - Essentiellement sur le legacy Symfony 5.4
 
 **Senior Back End Developer**
 _de janvier 2024 à avril 2024_
@@ -27,7 +28,7 @@ _de janvier 2024 à avril 2024_
 - Spécification technique, développement, code review
 - Containerisation (docker) des applications backend et frontend
 
-**Environnement : PHP 8.1 • Symfony 5.4 • MongoDB • API • Github • JIra • Confluence**
+**Environnement : PHP 8.1 • Symfony • MongoDB • API • Github • JIra • Confluence**
 
 ---
 
