@@ -180,6 +180,8 @@ Debian • GIT • PHPStorm • Ubuntu • Visual Studio Code
 https://www.udemy.com/certificate/UC-dc5e979d-e1c3-413f-b481-73b4047a2cc4/
 **Udemy**
 
+---
+
 #### AI Capabilities and Limitations (2026)
 
 https://verify.skilljar.com/c/x7b7hu8rrtzj  
